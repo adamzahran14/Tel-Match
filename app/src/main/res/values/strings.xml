@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Tel-Match</string>
+    <string name="startup_button_login">Log In</string>
+    <string name="startup_button_signup">Sign UP</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="login_button_text">Login</string>
+    <string name="signup_button_text">Sign up</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_age">Age</string>
+    <string name="hint_major">Major</string>
+    <string name="hint_gender">I am a</string>
+    <string name="hint_man">Man</string>
+    <string name="hint_woman">Woman</string>
+    <string name="hint_preferred_gender">Looking for a</string>
+    <string name="button_sign_out">Sign out</string>
+    <string name="button_apply">Apply</string>
+    <string name="error_profile_incomplete">Please complete your profile</string>
+    <string name="no_available_users">No available users</string>
+    <string name="text_email">Email</string>
+    <string name="text_password">Password</string>
+    <string name="send_button_text">Send</string>
+    <string name="hint_message">Message</string>
+    <string name="login_tv">LOGIN</string>
+    <string name="login_info">PLEASE LOGIN TO YOUR ACCOUNT.</string>
+    <string name="signUp_Tv">SIGN UP</string>
+    <string name="signUp_Info">SIGN UP IF U HAVEN\'T GOT ANY ACCOUNTS.</string>
+</resources>

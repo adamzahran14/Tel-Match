@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="startup_logo_width">300dp</dimen>
+    <dimen name="startup_logo_height">250dp</dimen>
+    <dimen name="startup_logo_margin">100dp</dimen>
+    <dimen name="standard_activity_width">250dp</dimen>
+    <dimen name="standard_width">200dp</dimen>
+    <dimen name="standard_profile_width">300dp</dimen>
+    <dimen name="standard_height">50dp</dimen>
+    <dimen name="standard_button_text_size">20sp</dimen>
+    <dimen name="standard_button_margin">5dp</dimen>
+    <dimen name="standard_button_radius">50dp</dimen>
+    <dimen name="send_button_radius">5dp</dimen>
+    <dimen name="navigation_height">50dp</dimen>
+    <dimen name="like_dislike_height">100dp</dimen>
+    <dimen name="like_dislike_button_height">75dp</dimen>
+    <dimen name="card_dimension">350dp</dimen>
+    <dimen name="card_name_height">50dp</dimen>
+    <dimen name="font_login_signup">18sp</dimen>
+    <dimen name="margin_left_login_signup">120dp</dimen>
+    <dimen name="padding_bottom_profile">25dp</dimen>
+    <dimen name="chat_image_size">100dp</dimen>
+    <dimen name="chat_margin">8dp</dimen>
+    <dimen name="send_height">75dp</dimen>
+    <dimen name="send_width">100dp</dimen>
+    <dimen name="send_height_max">150dp</dimen>
+    <dimen name="chat_text_size">18sp</dimen>
+    <dimen name="chat_standard_size">50dp</dimen>
+    <dimen name="chat_max_size">300dp</dimen>
+    <dimen name="layout_margin_text">30dp</dimen>
+</resources>

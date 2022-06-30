@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "245574363076",
+    "project_id": "telmatch-66de2",
+    "storage_bucket": "telmatch-66de2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245574363076:android:8e814c846858bd91d42691",
+        "android_client_info": {
+          "package_name": "org.d3if2084.tel_match"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245574363076-f4os25jb0i5ngoh8fdhen940u61ss0t4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.d3if2084.tel_match",
+            "certificate_hash": "22cad9e58d869e55a91df0577f503929891aeb69"
+          }
+        },
+        {
+          "client_id": "245574363076-0ohf6l4a7ljrnvh36ivfjhgat1n0l80g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6UYaly593iBez6ZW02yK73iHWrM6Agr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245574363076-0ohf6l4a7ljrnvh36ivfjhgat1n0l80g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/tugas/semester 4/Proyek Tingkat 2/Tel-Match/app/src/main/res/drawable/bg_input.xml" value="0.171" />
+        <entry key="..\:/tugas/semester 4/Proyek Tingkat 2/Tel-Match/app/src/main/res/drawable/chat_box_bg_rounded.xml" value="0.1825" />
+        <entry key="..\:/tugas/semester 4/Proyek Tingkat 2/Tel-Match/app/src/main/res/drawable/chat_current_message_bg_rounded.xml" value="0.1825" />
+        <entry key="..\:/tugas/semester 4/Proyek Tingkat 2/Tel-Match/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/tugas/semester 4/Proyek Tingkat 2/Tel-Match/app/src/main/res/drawable/navigation_shadow.xml" value="0.1" />
+        <entry key="..\:/tugas/semester 4/Proyek Tingkat 2/Tel-Match/app/src/main/res/drawable/send_button_rounded.xml" value="0.1825" />
+        <entry key="..\:/tugas/semester 4/Proyek Tingkat 2/Tel-Match/app/src/main/res/drawable/standard_button_rounded.xml" value="0.1" />
+        <entry key="..\:/tugas/semester 4/Proyek Tingkat 2/Tel-Match/app/src/main/res/drawable/standard_button_rounded_grey.xml" value="0.171" />
+        <entry key="..\:/tugas/semester 4/Proyek Tingkat 2/Tel-Match/app/src/main/res/drawable/tab.xml" value="0.1" />
+        <entry key="..\:/tugas/semester 4/Proyek Tingkat 2/Tel-Match/app/src/main/res/drawable/tab_matches.xml" value="0.1" />
+        <entry key="..\:/tugas/semester 4/Proyek Tingkat 2/Tel-Match/app/src/main/res/drawable/tab_profile.xml" value="0.1" />
+        <entry key="..\:/tugas/semester 4/Proyek Tingkat 2/Tel-Match/app/src/main/res/font/montserrat.xml" value="0.3005128205128205" />
+        <entry key="..\:/tugas/semester 4/Proyek Tingkat 2/Tel-Match/app/src/main/res/layout/activity_chat.xml" value="0.275" />
+        <entry key="..\:/tugas/semester 4/Proyek Tingkat 2/Tel-Match/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/tugas/semester 4/Proyek Tingkat 2/Tel-Match/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/tugas/semester 4/Proyek Tingkat 2/Tel-Match/app/src/main/res/layout/activity_signup.xml" value="0.2" />
+        <entry key="..\:/tugas/semester 4/Proyek Tingkat 2/Tel-Match/app/src/main/res/layout/activity_startup.xml" value="0.275" />
+        <entry key="..\:/tugas/semester 4/Proyek Tingkat 2/Tel-Match/app/src/main/res/layout/activity_user_info.xml" value="0.275" />
+        <entry key="..\:/tugas/semester 4/Proyek Tingkat 2/Tel-Match/app/src/main/res/layout/fragment_matches.xml" value="0.18070652173913043" />
+        <entry key="..\:/tugas/semester 4/Proyek Tingkat 2/Tel-Match/app/src/main/res/layout/fragment_profile.xml" value="0.264" />
+        <entry key="..\:/tugas/semester 4/Proyek Tingkat 2/Tel-Match/app/src/main/res/layout/fragment_swipe.xml" value="0.2" />
+        <entry key="..\:/tugas/semester 4/Proyek Tingkat 2/Tel-Match/app/src/main/res/layout/item.xml" value="0.275" />
+        <entry key="..\:/tugas/semester 4/Proyek Tingkat 2/Tel-Match/app/src/main/res/layout/item_chat.xml" value="0.275" />
+        <entry key="..\:/tugas/semester 4/Proyek Tingkat 2/Tel-Match/app/src/main/res/layout/item_current_user_message.xml" value="0.2" />
+        <entry key="..\:/tugas/semester 4/Proyek Tingkat 2/Tel-Match/app/src/main/res/layout/item_other_user_message.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
